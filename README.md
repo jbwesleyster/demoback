@@ -2,7 +2,7 @@
 
 Demo is a java app for dealing with booking hotel.
 
-Rodando o sistema com gradle
+Rodando o sistema com Maven
 -------------------
 		
 	mvn spring-boot:run
